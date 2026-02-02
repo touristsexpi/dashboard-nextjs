@@ -6,5 +6,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 # dashboard-nextjs
 
 ### Next steps
-- [] create this
+- [ ] create this
 - [x] create that
